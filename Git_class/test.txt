@@ -1,13 +1,15 @@
 This is Ashikul kader Fahad
 
 i am adding some lines from the web browser to make some change.
-<<<<<<< HEAD
 
 
 
 please add my lines.
-=======
+
 dfkg
 sflkgj
 s;dkl
->>>>>>> 5fcee847b1232acf5cc34ef920520e32acc10aea
+
+
+Yhkjshfvksjdhf;kjszdf
+
