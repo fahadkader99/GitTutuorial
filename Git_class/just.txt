@@ -1,7 +1,11 @@
-<<<<<<< HEAD
 hi this is fahad.
-=======
+more work done, from test branch
+
+
+please add my lines.
+hi this is fahad.
+
 just nothing
->>>>>>> dc30ce69fee45d1150a2411b4e09174dbcfb498a
 
 lets make some conflict with merging
+
