@@ -1,0 +1,18 @@
+
+src
+*.txt
+*.properties
+
+# !Notes/just.txt - here any file will not be ignored except just.txt
+
+
+
+
+
+
+
+
+
+
+
+# Anything we mention here will not be added in git. Even we cand eclare foldr.
